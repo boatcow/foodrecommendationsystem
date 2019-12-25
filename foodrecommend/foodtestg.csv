@@ -1,0 +1,9 @@
+index,foodname,ingredients,nutritional info,diet
+0,idly,"rice,dal,sesameseeds",100,v
+1,dosa,"rice,dal,sesameseeds",120,v
+2,vada,"dal,ginger,cocunut,chili",200,v
+3,sambar,"onion,tomato,chilli,carrot,mango",80,v
+4,pongal,"rice,dal,ghee,nuts,ginger",150,v
+5,biriyani,"chicken,cloves,lemon,tomato,mint,ginger",250,n
+6,Roti-subzi,"carrot,beans,capsicum,tomatoes,coriander",220,v
+7,tandoori chicken,"chicken,chilli,lemon,coriander,garammasala",170,n
