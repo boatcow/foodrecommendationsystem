@@ -11,6 +11,8 @@ def index():
         df = pd.read_csv('foodtestg.csv')
         Diet="v"
         task_content = request.form['content']
+        task_content=task_content.replace(" ","")
+        task_content=task_content.lower()
         listB=list(task_content.split(","))
         Diet=str(listB[0])
         Diet=Diet[0]
